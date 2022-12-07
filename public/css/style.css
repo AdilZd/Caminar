@@ -4,7 +4,7 @@ body {
     background-image: url(../img/bg.jpg);
     background-repeat: repeat;
     background-size: 100rem 400px;
-    height: 2000px;
+    height: 3000px;
 }
 
 /* Fonts */
@@ -29,9 +29,9 @@ body {
 
 /* Main */
 
+
 .img-02 {
     text-align: center;
-    background-color: white;
     width: 90%;
     margin-left: 65px;
 }
@@ -118,19 +118,19 @@ h3 {
 .desc {
     display: flex;
     width: 90%;
-    margin-left: 65px;
 }
 
 
-#txt {
+.txt {
     background-color: white;
     text-align: center;
     text-align: start;
     justify-content: center;
-
+    height: 500px;
+    width: 500px;
 }
 
-#txt h4 {
+.txt h4 {
     color: black;
     margin-top: 40%;
 }
@@ -141,9 +141,43 @@ h4 {
     margin-left: 45px;
 }
 
-#p-desc {
+.p-desc {
     color: gray;
     padding: 50px;
     padding-top: 0px;
     font-size: 18px;
+}
+
+/* Texte 3 */ 
+
+.txt-2 {
+    background-color: #1e1f23;
+    text-align: center;
+    text-align: right;
+    justify-content: center;
+    height: 500px;
+    width: 500px;
+}
+
+#h4-2 {
+    color: white;
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 30%;
+}
+
+#div-fin {
+    margin-left: 200px;
+}
+
+/* Footer */ 
+
+.p-footer {
+    color: white;
+    font-size: 15px;
+
+}
+
+.footerr {
+    text-align: center;
 }
