@@ -109,8 +109,13 @@ h3 {
 /* Les quatres images */
 
 #quatro {
+    display: flex;
     justify-content: center;
-    text-align: center;
+}
+
+#quatroDos {
+    display: flex;
+    justify-content: center;
 }
 
 /* Div Viverra Hendrerit */
@@ -167,7 +172,7 @@ h4 {
 }
 
 #div-fin {
-    margin-left: 200px;
+    margin-left: 250px;
 }
 
 /* Footer */ 
@@ -180,4 +185,9 @@ h4 {
 
 .footerr {
     text-align: center;
+}
+
+#icons {
+    text-align: center;
+    color: white;
 }
