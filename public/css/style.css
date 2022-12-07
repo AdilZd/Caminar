@@ -60,6 +60,7 @@ body {
     color: gray;
     font-size: 12px;
     letter-spacing: 1px;
+    text-align: center;
 }
 
 /* Div grise */
@@ -76,4 +77,38 @@ body {
     text-align: center;
     text-align: start;
     padding: 30px;
+}
+
+.div-noir {
+    background-color: #1e1f23;
+    width: 90%;
+    margin-left: 65px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#noir2 {
+    background-color: #121315;
+    width: 93%;
+    margin-left: 45px;
+    padding-bottom: 30px;
+}
+
+h3 {
+    color: white;
+    margin-top: 0;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#hr-h3 {
+    width: 15%;
+}
+
+/* Les quatres images */
+
+#quatro {
+    justify-content: center;
+    text-align: center;
 }
