@@ -31,8 +31,33 @@ body {
 
 .img-02 {
     text-align: center;
-
+    background-color: white;
+    width: 90%;
+    margin-left: 65px;
 }
 
 /* Div blanc */
 
+.div-blanc {
+    background-color: white;
+    width: 90%;
+    margin-left: 65px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.div-blanc h2 {
+    margin-top: 0;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#hr-h2 {
+    width: 15%;
+}
+
+#p-divblanc {
+    color: gray;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
