@@ -112,3 +112,38 @@ h3 {
     justify-content: center;
     text-align: center;
 }
+
+/* Div Viverra Hendrerit */
+
+.desc {
+    display: flex;
+    width: 90%;
+    margin-left: 65px;
+}
+
+
+#txt {
+    background-color: white;
+    text-align: center;
+    text-align: start;
+    justify-content: center;
+
+}
+
+#txt h4 {
+    color: black;
+    margin-top: 40%;
+}
+
+h4 {
+    text-align: left;
+    font-size: 30px;
+    margin-left: 45px;
+}
+
+#p-desc {
+    color: gray;
+    padding: 50px;
+    padding-top: 0px;
+    font-size: 18px;
+}
