@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bg.jpg);
+    background-repeat: repeat;
+    background-size: 100rem 400px;
+    height: 2000px;
+}
+
+/* Fonts */
+
+@font-face {
+    font-family: "arlon" ;
+    src: url(../fonts/FontsFree-Net-Arlon-Bold.ttf);
+}
+
+/* Titre */ 
+
+#titre {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+#span-titre {
+    font-size: 12px;
+}
+
+/* Main */
+
+.img-02 {
+    text-align: center;
+
+}
+
+/* Div blanc */
+
